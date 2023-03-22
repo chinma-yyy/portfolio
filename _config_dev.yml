@@ -1,26 +1,21 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Chinmay Shewale
+title: Chinmay Shewale | Backend Engineer
+description: Backend engineer who is a bit lazy but loves building development tools to make my work easier and automate the workflow.
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: shewalechinmay54@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:shewalechinmay54@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://twitter.com/chinma_yyy
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/chinma-yyy
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/chinma_yyy
 
 # Build settings
 markdown: kramdown

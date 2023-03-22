@@ -1,33 +1,35 @@
 languages:
-  - item: JavaScript (ES6)
+  - item: JavaScript (ES6+)
   - item: TypeScript
   - item: HTML
-  - item: CSS/Sass
+  - item: CSS
   - item: Python
+  - item: NodeJS
+  - item: C
+  - item: Java
   - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: ExpressJS
+  - item: MeteorJS
+  - item: Serverless
+  - item: Mocha Chai
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
   - item: Chrome DevTools
   - item: Postman
   - item: MongoDB
+  - item: AWS EC2
+  - item: MySQL
+  - item: VS Code
+  - item: Docker
+  - item: GraphQL
+  - item: Firebase
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+deployment:
+  - item: Heroku
+  - item: Netlify
+  - item: AWS
+
